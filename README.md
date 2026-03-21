@@ -28,7 +28,7 @@ This combination of linguistics, marketing, and analytics naturally led me to de
 This GitHub profile contains academic and personal projects developed during my master’s studies and independent learning, mainly focused on:
 - Python programming and data analysis  
 - Databases (SQL & NoSQL)  
-- NLP and text-based data exploration  
+- BI Dashboards
 - Data visualization and analytics workflows  
 
 I’m continuously learning and open to opportunities in **data analytics, NLP, and data-driven digital roles**, especially in international environments.
