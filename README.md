@@ -18,7 +18,11 @@ My main interests lie at the intersection of **data analysis, natural language p
 - **Digital Analytics:** Google Analytics 4 (GA4), SEO, SEMrush, Google Search Console, HubSpot, Mailchimp  
 
 ### 🎓 Background
-Before transitioning fully into data and analytics, I worked as an **associate professor**, teaching technical and professional English in undergraduate and master’s programs related to **logistics, automotive, renewable energy, and web/software localization**. This experience strengthened my ability to communicate complex technical concepts clearly and work in interdisciplinary environments.
+Before transitioning fully into data and analytics, I worked as an **associate professor** and **digital marketing consultant**, teaching technical and professional English while also developing and executing data-driven marketing strategies.
+
+My experience spans industries such as logistics, energy, and software localization, as well as digital marketing environments where I worked on SEO, web analytics, and campaign performance analysis. This background strengthened my ability to **combine language, business understanding, and data analysis**, and to communicate complex technical concepts clearly in international and interdisciplinary contexts.
+
+This combination of linguistics, marketing, and analytics naturally led me to develop an interest in **Natural Language Processing (NLP)** and machine learning applications for text and user behavior analysis.
 
 ### 🚀 What you’ll find here
 This GitHub profile contains academic and personal projects developed during my master’s studies and independent learning, mainly focused on:
