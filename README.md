@@ -1,32 +1,34 @@
-## Hi there 👋
+Hi there 👋
 
-I’m a **Data & Analytics professional** with a background in **linguistics and digital marketing**, currently pursuing a **Master’s in Big Data, Data Science & Business Intelligence** at the Complutense University of Madrid.
+I’m a Data Analyst with a background in digital marketing and linguistics, currently completing a Master’s in Big Data, Data Science & Business Intelligence at Universidad Complutense de Madrid.
 
-My main interests lie at the intersection of **data analysis, natural language processing (NLP), and business intelligence**, with a strong focus on turning data into actionable insights. I enjoy working with both structured and unstructured data and building projects that connect language, analytics, and real-world use cases.
+I specialize in transforming data into actionable business insights through SQL, Python, and Business Intelligence tools. My work focuses on analyzing structured data, building dashboards, and supporting data-driven decision making.
 
-### 🔍 Areas of interest
-- Data Analysis & Business Intelligence  
-- Natural Language Processing (NLP) & Text Analytics  
-- Machine Learning & Predictive Modeling  
-- Data Visualization & Data-Driven Decision Making  
+💼 What I do
+- Analyze datasets using SQL and Python to uncover trends and opportunities
+- Build interactive dashboards with Power BI and Tableau
+- Apply statistical analysis and basic machine learning models to business problems
+- Translate data into clear insights for non-technical stakeholders
 
-### 🛠️ Tools & Technologies
-- **Languages & Data:** Python, SQL, NoSQL (in progress)  
-- **Data & BI:** Power BI, Tableau, Excel  
-- **Big Data & ML:** Spark, Machine Learning, Deep Learning, Text Mining (academic projects)  
-- **Tools & Environment:** Git, Linux, Jupyter Notebook  
-- **Digital Analytics:** Google Analytics 4 (GA4), SEO, SEMrush, Google Search Console, HubSpot, Mailchimp  
+🛠️ Tools & Technologies
+- Languages: Python, SQL
+- Data Visualization: Power BI, Tableau, Excel
+- Data & ML: Pandas, NumPy, Scikit-learn, basic Machine Learning
+- Tools: Git, Linux, Jupyter Notebook
+- Analytics: Google Analytics 4, SEO, SEM tools
 
-### 🎓 Background
-Before transitioning fully into data and analytics, I worked as an **associate professor** and **digital marketing consultant**, teaching technical and professional English while also developing and executing data-driven marketing strategies.
+📊 Featured Projects
+Here you’ll find projects focused on:
+- Sales and profitability analysis using SQL
+- Business Intelligence dashboards (Power BI, Excel)
+- Data analysis workflows in Python
+- Machine learning applications for business use cases
 
-My experience spans industries such as logistics, energy, and software localization, as well as digital marketing environments where I worked on SEO, web analytics, and campaign performance analysis. This background strengthened my ability to **combine language, business understanding, and data analysis**, and to communicate complex technical concepts clearly in international and interdisciplinary contexts.
+🎓 Background
+Before transitioning into data analytics, I worked as an associate professor and digital marketing specialist. This experience strengthened my ability to communicate insights clearly and connect data with real business needs.
 
-This combination of linguistics, marketing, and analytics naturally led me to develop an interest in **Natural Language Processing (NLP)** and machine learning applications for text and user behavior analysis.
-
-### 🚀 What you’ll find here
-This GitHub profile contains academic and personal projects developed during my master’s studies and independent learning, mainly focused on:
-- Python programming and data analysis  
+🌍 Open to opportunities
+I’m currently seeking Data Analyst roles in international environments, where I can grow and contribute to data-driven teams.
 - Databases (SQL & NoSQL)  
 - BI Dashboards
 - Data visualization and analytics workflows  
