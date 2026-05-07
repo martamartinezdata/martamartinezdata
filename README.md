@@ -1,6 +1,6 @@
 Hi there 👋
 
-I’m a Data Analyst with a background in digital marketing and linguistics, currently completing a Master’s in Big Data, Data Science & Business Intelligence at Universidad Complutense de Madrid.
+I’m a Data Analyst with a background in digital marketing analytics and linguistics, currently completing a Master’s in Big Data, Data Science & Business Intelligence at Universidad Complutense de Madrid.
 
 I specialize in transforming data into actionable business insights through SQL, Python, and Business Intelligence tools. My work focuses on analyzing structured data, building dashboards, and supporting data-driven decision making.
 
