@@ -11,11 +11,12 @@ I specialize in transforming data into actionable business insights through SQL,
 - Translate data into clear insights for non-technical stakeholders
 
 🛠️ Tools & Technologies
-- Languages: Python, SQL
-- Data Visualization: Power BI, Tableau, Excel
-- Data & ML: Pandas, NumPy, Scikit-learn, basic Machine Learning
-- Tools: Git, Linux, Jupyter Notebook
-- Analytics: Google Analytics 4, SEO, SEM tools
+- Programming & Databases: Python, SQL, NoSQL
+- Data Analysis & Machine Learning: Pandas, NumPy, Scikit-learn, Machine Learning, Predictive Modelling
+- Data Visualisation & BI: Power BI, Tableau, Excel, Reporting, Dashboarding
+- Big Data & Cloud: Spark, Big Data Technologies, Azure, Open Data
+- Tools & Workflow: Git, GitHub, Linux, Jupyter Notebook
+- Marketing & Analytics: Google Analytics 4, Search Console, KPI Tracking, SEO, Digital Performance Analysis
 
 📊 Featured Projects
 Here you’ll find projects focused on:
