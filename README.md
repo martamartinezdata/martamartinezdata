@@ -33,4 +33,3 @@ I’m currently seeking Data Analyst roles in international environments, where 
 - BI Dashboards
 - Data visualization and analytics workflows  
 
-I’m continuously learning and open to opportunities in **data analytics, NLP, and data-driven digital roles**, especially in international environments.
